@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-seat-booking-ui/static/css/main.5e00710f.css",
+    "main.js": "/movie-seat-booking-ui/static/js/main.fd359334.js",
+    "index.html": "/movie-seat-booking-ui/index.html",
+    "main.5e00710f.css.map": "/movie-seat-booking-ui/static/css/main.5e00710f.css.map",
+    "main.fd359334.js.map": "/movie-seat-booking-ui/static/js/main.fd359334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e00710f.css",
+    "static/js/main.fd359334.js"
+  ]
+}
